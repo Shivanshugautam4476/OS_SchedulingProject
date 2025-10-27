@@ -4,7 +4,7 @@
 
 [![process-scheduling-solver](https://user-images.githubusercontent.com/19908657/120210473-6874ca00-c262-11eb-96a2-5c4742fea816.png)](https://boonsuen.com/process-scheduling-solver)
 
-Get it here: [process-scheduling-solver.boonsuen.com](https://process-scheduling-solver.boonsuen.com)
+Get it here: [https://process-scheduling-solver-two.vercel.app](https://process-scheduling-solver-two.vercel.app)
 
 ## Supported algorithms
 
