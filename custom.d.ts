@@ -1,6 +1,6 @@
 declare module "*.svg" {
   const content: any;
-  export default content;
+  export  default content;
 }
 
 declare module '*.woff';

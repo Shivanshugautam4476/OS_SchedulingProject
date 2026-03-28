@@ -8,7 +8,7 @@ export const fcfs = (arrivalTime: number[], burstTime: number[]) => {
           ? `P${index + 1}`
           : (index + 10).toString(36).toUpperCase();
 
-      return {
+      return { 
         job,
         at: item,
         bt: burstTime[index],

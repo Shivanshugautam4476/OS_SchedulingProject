@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import Input from '../components/Input';
+import Input from  '../components/Input';
 import Output from '../components/Output';
 
 import { media } from '../components/GlobalStyle.css';
